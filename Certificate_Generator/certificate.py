@@ -22,7 +22,6 @@ for i in range(3):
     p=int(input())
     color.append(p)
 
-font_size=input("Enter font size:")
 
 text_color = (color[0],color[1],color[2])
 
